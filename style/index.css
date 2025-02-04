@@ -1,0 +1,228 @@
+.form-in{
+    width: 400px;
+    height: 30px;
+    text-align: center;
+    margin: 10px;
+    border: solid 2px #fe7d2b;
+}
+div{
+    margin-top: 20px;
+}
+.form-sub{
+    width: 150px;
+    height: 30px;
+    background-color: #fe7d2b;
+    border: none;
+    font-weight: bold;
+    cursor: pointer;
+}
+.form-sub:hover{
+    color: #fffffe;
+}
+.forgot{
+    margin-top: 10px;
+}
+@media (max-width:8000px) {
+    .form-in{
+        width: calc(calc(400px/1240)*7000);
+        height: calc(calc(30px/1240)*7000);
+        margin: calc(calc(10px/1240)*7000);
+    }
+    div{
+        margin-top: calc(calc(20px/1240)*7000);
+    }
+    .form-sub{
+        width: calc(calc(150px/1240)*7000);
+        height: calc(calc(30px/1240)*7000);
+    }
+    .forgot{
+        margin-top: calc(calc(10px/1240)*7000);
+    }
+}
+@media (max-width:7000px) {
+    .form-in{
+        width: calc(calc(400px/1240)*6000);
+        height: calc(calc(30px/1240)*6000);
+        margin: calc(calc(10px/1240)*6000);
+    }
+    div{
+        margin-top: calc(calc(20px/1240)*6000);
+    }
+    .form-sub{
+        width: calc(calc(150px/1240)*6000);
+        height: calc(calc(30px/1240)*6000);
+    }
+    .forgot{
+        margin-top: calc(calc(10px/1240)*6000);
+    }
+}
+@media (max-width:6000px) {
+    .form-in{
+        width: calc(calc(400px/1240)*5000);
+        height: calc(calc(30px/1240)*5000);
+        margin: calc(calc(10px/1240)*5000);
+    }
+    div{
+        margin-top: calc(calc(20px/1240)*5000);
+    }
+    .form-sub{
+        width: calc(calc(150px/1240)*5000);
+        height: calc(calc(30px/1240)*5000);
+    }
+    .forgot{
+        margin-top: calc(calc(10px/1240)*5000);
+    }
+}
+@media (max-width:5000px) {
+    .form-in{
+        width: calc(calc(400px/1240)*4000);
+        height: calc(calc(30px/1240)*4000);
+        margin: calc(calc(10px/1240)*4000);
+    }
+    div{
+        margin-top: calc(calc(20px/1240)*4000);
+    }
+    .form-sub{
+        width: calc(calc(150px/1240)*4000);
+        height: calc(calc(30px/1240)*4000);
+    }
+    .forgot{
+        margin-top: calc(calc(10px/1240)*4000);
+    }
+}
+@media (max-width:4000px) {
+    .form-in{
+        width: calc(calc(400px/1240)*3000);
+        height: calc(calc(30px/1240)*3000);
+        margin: calc(calc(10px/1240)*3000);
+    }
+    div{
+        margin-top: calc(calc(20px/1240)*3000);
+    }
+    .form-sub{
+        width: calc(calc(150px/1240)*3000);
+        height: calc(calc(30px/1240)*3000);
+    }
+    .forgot{
+        margin-top: calc(calc(10px/1240)*3000);
+    }
+}
+@media (max-width:3000px) {
+    .form-in{
+        width: calc(calc(400px/1240)*2000);
+        height: calc(calc(30px/1240)*2000);
+        margin: calc(calc(10px/1240)*2000);
+    }
+    div{
+        margin-top: calc(calc(20px/1240)*2000);
+    }
+    .form-sub{
+        width: calc(calc(150px/1240)*2000);
+        height: calc(calc(30px/1240)*2000);
+    }
+    .forgot{
+        margin-top: calc(calc(10px/1240)*2000);
+    }
+}
+@media (max-width:2000px) {
+    .form-in{
+        width: calc(calc(400px/1240)*1000);
+        height: calc(calc(30px/1240)*1000);
+        margin: calc(calc(10px/1240)*1000);
+    }
+    div{
+        margin-top: calc(calc(20px/1240)*1000);
+    }
+    .form-sub{
+        width: calc(calc(150px/1240)*1000);
+        height: calc(calc(30px/1240)*1000);
+    }
+    .forgot{
+        margin-top: calc(calc(10px/1240)*1000);
+    }
+}
+@media (max-width:1000px) {
+    .form-in{
+        width: calc(calc(400px/1240)*800);
+        height: calc(calc(30px/1240)*800);
+        margin: calc(calc(10px/1240)*800);
+    }
+    div{
+        margin-top: calc(calc(20px/1240)*800);
+    }
+    .form-sub{
+        width: calc(calc(150px/1240)*800);
+        height: calc(calc(30px/1240)*800);
+    }
+    .forgot{
+        margin-top: calc(calc(10px/1240)*800);
+    }
+}
+@media (max-width:800px) {
+    .form-in{
+        width: calc(calc(400px/1240)*600);
+        height: calc(calc(30px/1240)*600);
+        margin: calc(calc(10px/1240)*600);
+    }
+    div{
+        margin-top: calc(calc(20px/1240)*600);
+    }
+    .form-sub{
+        width: calc(calc(150px/1240)*600);
+        height: calc(calc(30px/1240)*600);
+    }
+    .forgot{
+        margin-top: calc(calc(10px/1240)*600);
+    }
+}
+@media (max-width:600px) {
+    .form-in{
+        width: calc(calc(400px/1240)*400);
+        height: calc(calc(30px/1240)*400);
+        margin: calc(calc(10px/1240)*400);
+    }
+    div{
+        margin-top: calc(calc(20px/1240)*400);
+    }
+    .form-sub{
+        width: calc(calc(150px/1240)*400);
+        height: calc(calc(30px/1240)*400);
+    }
+    .forgot{
+        margin-top: calc(calc(10px/1240)*400);
+    }
+}
+@media (max-width:400px) {
+    .form-in{
+        width: calc(calc(400px/1240)*200);
+        height: calc(calc(30px/1240)*200);
+        margin: calc(calc(10px/1240)*200);
+    }
+    div{
+        margin-top: calc(calc(20px/1240)*200);
+    }
+    .form-sub{
+        width: calc(calc(150px/1240)*200);
+        height: calc(calc(30px/1240)*200);
+    }
+    .forgot{
+        margin-top: calc(calc(10px/1240)*200);
+    }
+}
+@media (max-width:200px) {
+    .form-in{
+        width: calc(calc(400px/1240)*100);
+        height: calc(calc(30px/1240)*100);
+        margin: calc(calc(10px/1240)*100);
+    }
+    div{
+        margin-top: calc(calc(20px/1240)*100);
+    }
+    .form-sub{
+        width: calc(calc(150px/1240)*100);
+        height: calc(calc(30px/1240)*100);
+    }
+    .forgot{
+        margin-top: calc(calc(10px/1240)*100);
+    }
+}

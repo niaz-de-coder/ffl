@@ -1,0 +1,30 @@
+main{
+    height: 100vh;
+}
+nav{
+    height: 5%;
+}
+.screen{
+    height: 90%;
+}
+.nav1{
+    gap: 300px;
+}
+.large-icon{
+    font-size: 30px;
+    border-radius: 50%;
+    text-align: center;
+    padding: 5px;
+    cursor: pointer;
+}
+.medium-icon{
+    font-size: 20px;
+    border-radius: 50%;
+    text-align: center;
+    padding: 5px;
+    cursor: pointer;
+}
+.nav2 div{
+    width: 30%;
+    gap: 150px;
+}
